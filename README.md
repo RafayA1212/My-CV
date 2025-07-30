@@ -9,9 +9,7 @@ To build a professional digital CV and portfolio to present to potential employe
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap 5
-- Font Awesome
 
 ## Folder Structure
 ```
