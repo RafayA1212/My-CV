@@ -6,7 +6,7 @@ A personal resume website created to showcase education, skills, interests, and 
 ## Project Objective
 To build a professional digital CV and portfolio to present to potential employers or collaborators. The website highlights academic history, technical skills, and links to completed academic projects with descriptions.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3
 - Bootstrap 5
