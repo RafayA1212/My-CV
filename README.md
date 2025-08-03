@@ -1,4 +1,4 @@
-# Rafay Ahmad – CV Website
+# Rafay Ahmad – CV
 
 ## Overview
 A personal resume website created to showcase education, skills, interests, and academic projects. This project was built as part of the Professional Practices course at GIFT University and is hosted using GitHub Pages.
